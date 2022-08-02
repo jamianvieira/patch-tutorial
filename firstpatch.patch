@@ -1,0 +1,10 @@
+diff --git a/hello.txt b/hello.txt
+index 6f6e16e..b1c3568 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -1 +1,2 @@
+-First commit of data
+\ No newline at end of file
++First commit of data
++This line is our patch
+\ No newline at end of file
